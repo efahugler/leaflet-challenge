@@ -35,4 +35,20 @@ The USGS provides earthquake data in a number of different formats, updated ever
 
   2. Import & Visualize the Data
   
+### Assessment
+Your final product will be assessed on the following metrics:
+Completion of assigned tasks
+
+Visual appearance
+
+Professionalism
+
+Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
+
+
+Good luck!
+
+Rubric
+https://leafletjs.com/index.html
+
 
