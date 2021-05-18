@@ -30,3 +30,4 @@ Your first task is to visualize an earthquake data set.
 
   1. Get your data set
  ![image](https://user-images.githubusercontent.com/75512037/118579375-94b52480-b753-11eb-8078-95a763db1cef.png)
+The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON Feed page and pick a data set to visualize. When you click on a data set, for example 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data. You will be using the URL of this JSON to pull in the data for our visualization.
