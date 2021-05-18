@@ -24,3 +24,8 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 
 5. Push the above changes to GitHub or GitLab.
+
+## Your Task
+
+### Level 1: Basic Visualization
+
