@@ -11,19 +11,15 @@ The USGS is interested in building a new set of tools that will allow them visua
 ## Before You Begin
 
 
-1. Create a new repository for this project called leaflet-challenge. Do not add this homework to an existing repository.
+ 1. Create a new repository for this project called leaflet-challenge. Do not add this homework to an existing repository.
 
+ 2. Clone the new repository to your computer.
 
-2. Clone the new repository to your computer.
+ 3. Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: Leaflet-Step-1 and Leaflet-Step-2.
 
+ 4. This homeworks utilizes both html and Javascript so be sure to add all the necessary files. These will be the main files to run for analysis.
 
-3. Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: Leaflet-Step-1 and Leaflet-Step-2.
-
-
-4. This homeworks utilizes both html and Javascript so be sure to add all the necessary files. These will be the main files to run for analysis.
-
-
-5. Push the above changes to GitHub or GitLab.
+ 5. Push the above changes to GitHub or GitLab.
 
 ## Your Task
 
@@ -32,3 +28,5 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 Your first task is to visualize an earthquake data set.
 
+  1. Get your data set
+ ![image](https://user-images.githubusercontent.com/75512037/118579375-94b52480-b753-11eb-8078-95a763db1cef.png)
