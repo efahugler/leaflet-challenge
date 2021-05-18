@@ -30,3 +30,5 @@ The USGS is interested in building a new set of tools that will allow them visua
 ### Level 1: Basic Visualization
 ![image](https://user-images.githubusercontent.com/75512037/118579275-620b2c00-b753-11eb-9909-7bda242a20b3.png)
 
+Your first task is to visualize an earthquake data set.
+
